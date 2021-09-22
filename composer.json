@@ -1,5 +1,5 @@
 {
-    "name": "graphp/graphviz",
+    "name": "sonosuite/graphviz",
     "type": "library",
     "description": "GraphViz graph drawing for the mathematical graph/network library GraPHP.",
     "keywords": ["GraphViz", "graph drawing", "graph image", "dot output", "GraPHP"],
